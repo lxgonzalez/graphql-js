@@ -26,6 +26,8 @@ node index.js
 #### 5. Connecting to http://localhost:4000/graphql using your browser
 
 ### DEMO
+![image](https://github.com/user-attachments/assets/a22797b8-0ba1-4c71-a725-3c3aabde752f)
+![image](https://github.com/user-attachments/assets/15bf36a6-486d-4c2b-b69c-338a5c6f4133)
 
 ## Authors
 
